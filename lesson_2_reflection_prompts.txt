@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    You start having a log of the history of the files in it. you need
+    to do it to have it version controlled
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+    Not sure yet on what value it offers, but the SA can be thought as a
+    physically distinct area from the WD
